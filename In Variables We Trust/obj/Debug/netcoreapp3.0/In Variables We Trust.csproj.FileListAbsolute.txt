@@ -1,0 +1,11 @@
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\In Variables We Trust\bin\Debug\netcoreapp3.0\In Variables We Trust.exe
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\In Variables We Trust\bin\Debug\netcoreapp3.0\In Variables We Trust.deps.json
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\In Variables We Trust\bin\Debug\netcoreapp3.0\In Variables We Trust.runtimeconfig.json
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\In Variables We Trust\bin\Debug\netcoreapp3.0\In Variables We Trust.runtimeconfig.dev.json
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\In Variables We Trust\bin\Debug\netcoreapp3.0\In Variables We Trust.dll
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\In Variables We Trust\bin\Debug\netcoreapp3.0\In Variables We Trust.pdb
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\In Variables We Trust\obj\Debug\netcoreapp3.0\In Variables We Trust.csprojAssemblyReference.cache
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\In Variables We Trust\obj\Debug\netcoreapp3.0\In Variables We Trust.AssemblyInfoInputs.cache
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\In Variables We Trust\obj\Debug\netcoreapp3.0\In Variables We Trust.AssemblyInfo.cs
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\In Variables We Trust\obj\Debug\netcoreapp3.0\In Variables We Trust.dll
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\In Variables We Trust\obj\Debug\netcoreapp3.0\In Variables We Trust.pdb

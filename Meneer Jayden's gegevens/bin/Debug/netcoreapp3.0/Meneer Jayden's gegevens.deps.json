@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Meneer Jayden's gegevens/1.0.0": {
+        "runtime": {
+          "Meneer Jayden's gegevens.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Meneer Jayden's gegevens/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

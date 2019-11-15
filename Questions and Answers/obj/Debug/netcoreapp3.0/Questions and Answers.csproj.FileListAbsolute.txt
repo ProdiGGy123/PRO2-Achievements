@@ -1,0 +1,11 @@
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\Questions and Answers\bin\Debug\netcoreapp3.0\Questions and Answers.exe
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\Questions and Answers\bin\Debug\netcoreapp3.0\Questions and Answers.deps.json
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\Questions and Answers\bin\Debug\netcoreapp3.0\Questions and Answers.runtimeconfig.json
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\Questions and Answers\bin\Debug\netcoreapp3.0\Questions and Answers.runtimeconfig.dev.json
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\Questions and Answers\bin\Debug\netcoreapp3.0\Questions and Answers.dll
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\Questions and Answers\bin\Debug\netcoreapp3.0\Questions and Answers.pdb
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\Questions and Answers\obj\Debug\netcoreapp3.0\Questions and Answers.csprojAssemblyReference.cache
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\Questions and Answers\obj\Debug\netcoreapp3.0\Questions and Answers.AssemblyInfoInputs.cache
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\Questions and Answers\obj\Debug\netcoreapp3.0\Questions and Answers.AssemblyInfo.cs
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\Questions and Answers\obj\Debug\netcoreapp3.0\Questions and Answers.dll
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\Questions and Answers\obj\Debug\netcoreapp3.0\Questions and Answers.pdb

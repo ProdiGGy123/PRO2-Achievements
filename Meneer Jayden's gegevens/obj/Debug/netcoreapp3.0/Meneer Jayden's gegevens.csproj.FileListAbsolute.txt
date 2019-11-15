@@ -1,0 +1,11 @@
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\Meneer Jayden's gegevens\bin\Debug\netcoreapp3.0\Meneer Jayden's gegevens.exe
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\Meneer Jayden's gegevens\bin\Debug\netcoreapp3.0\Meneer Jayden's gegevens.deps.json
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\Meneer Jayden's gegevens\bin\Debug\netcoreapp3.0\Meneer Jayden's gegevens.runtimeconfig.json
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\Meneer Jayden's gegevens\bin\Debug\netcoreapp3.0\Meneer Jayden's gegevens.runtimeconfig.dev.json
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\Meneer Jayden's gegevens\bin\Debug\netcoreapp3.0\Meneer Jayden's gegevens.dll
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\Meneer Jayden's gegevens\bin\Debug\netcoreapp3.0\Meneer Jayden's gegevens.pdb
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\Meneer Jayden's gegevens\obj\Debug\netcoreapp3.0\Meneer Jayden's gegevens.csprojAssemblyReference.cache
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\Meneer Jayden's gegevens\obj\Debug\netcoreapp3.0\Meneer Jayden's gegevens.AssemblyInfoInputs.cache
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\Meneer Jayden's gegevens\obj\Debug\netcoreapp3.0\Meneer Jayden's gegevens.AssemblyInfo.cs
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\Meneer Jayden's gegevens\obj\Debug\netcoreapp3.0\Meneer Jayden's gegevens.dll
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\Meneer Jayden's gegevens\obj\Debug\netcoreapp3.0\Meneer Jayden's gegevens.pdb

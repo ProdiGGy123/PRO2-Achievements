@@ -1,0 +1,11 @@
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\Arrays\bin\Debug\netcoreapp3.0\Arrays.exe
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\Arrays\bin\Debug\netcoreapp3.0\Arrays.deps.json
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\Arrays\bin\Debug\netcoreapp3.0\Arrays.runtimeconfig.json
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\Arrays\bin\Debug\netcoreapp3.0\Arrays.runtimeconfig.dev.json
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\Arrays\bin\Debug\netcoreapp3.0\Arrays.dll
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\Arrays\bin\Debug\netcoreapp3.0\Arrays.pdb
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\Arrays\obj\Debug\netcoreapp3.0\Arrays.csprojAssemblyReference.cache
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\Arrays\obj\Debug\netcoreapp3.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\Arrays\obj\Debug\netcoreapp3.0\Arrays.AssemblyInfo.cs
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\Arrays\obj\Debug\netcoreapp3.0\Arrays.dll
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\Arrays\obj\Debug\netcoreapp3.0\Arrays.pdb

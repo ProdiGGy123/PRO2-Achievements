@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Questions and Answers/1.0.0": {
+        "runtime": {
+          "Questions and Answers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Questions and Answers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

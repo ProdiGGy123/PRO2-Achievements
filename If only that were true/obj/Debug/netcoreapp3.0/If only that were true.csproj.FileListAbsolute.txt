@@ -1,0 +1,11 @@
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\If only that were true\bin\Debug\netcoreapp3.0\If only that were true.exe
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\If only that were true\bin\Debug\netcoreapp3.0\If only that were true.deps.json
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\If only that were true\bin\Debug\netcoreapp3.0\If only that were true.runtimeconfig.json
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\If only that were true\bin\Debug\netcoreapp3.0\If only that were true.runtimeconfig.dev.json
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\If only that were true\bin\Debug\netcoreapp3.0\If only that were true.dll
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\If only that were true\bin\Debug\netcoreapp3.0\If only that were true.pdb
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\If only that were true\obj\Debug\netcoreapp3.0\If only that were true.csprojAssemblyReference.cache
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\If only that were true\obj\Debug\netcoreapp3.0\If only that were true.AssemblyInfoInputs.cache
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\If only that were true\obj\Debug\netcoreapp3.0\If only that were true.AssemblyInfo.cs
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\If only that were true\obj\Debug\netcoreapp3.0\If only that were true.dll
+C:\Users\macbe\Desktop\ma\bewijzenmap\periode1.1\pro2\afgemaakteopdrachten\If only that were true\obj\Debug\netcoreapp3.0\If only that were true.pdb
